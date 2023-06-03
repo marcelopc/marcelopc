@@ -30,6 +30,6 @@ Período: dezembro de 2018 - abril de 2023 (4 anos 5 meses)
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/marceloperesc/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/marceloperesc/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
