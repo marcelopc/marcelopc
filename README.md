@@ -26,8 +26,8 @@ Período: dezembro de 2018 - abril de 2023 (4 anos 5 meses)
 - Bacharelado em Ciência da Computação
 
 ## Contato
-  <a href="mailto:marcelopc94@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-marcelopc94@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=marcelopc94@gmail.com" />
+  <a href="mailto:marcelopc04@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-marcelopc04@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=marcelopc04@gmail.com" />
   </a>
   
   <a href="https://www.linkedin.com/in/marceloperesc/" target="_blank" alt="Linkedin">
